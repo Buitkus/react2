@@ -1,0 +1,22 @@
+.container {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px 0;
+    background-color: #ECF8F9;
+}
+
+.btn {
+    background-color: #FFC26F;
+    border: none;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 80px;
+}
+
+.btn:hover {
+    background-color: #C38154;
+}
